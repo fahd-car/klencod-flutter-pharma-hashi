@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "421635622187",
+    "firebase_url": "https://drugs-6e4f8-default-rtdb.firebaseio.com",
+    "project_id": "drugs-6e4f8",
+    "storage_bucket": "drugs-6e4f8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421635622187:android:f9067fc9da49220761f16e",
+        "android_client_info": {
+          "package_name": "com.pharmahashi.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmLjF_mmRc4vJqg7n1BN20-hTkngIKcxA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
